@@ -6,6 +6,8 @@ import com.empresa.entity.Alumno;
 
 public interface AlumnoRepository extends JpaRepository<Alumno, Integer> {
 
+	
+	
 }
 
 
